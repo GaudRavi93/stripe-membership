@@ -19,7 +19,20 @@
     "sponsorBenefits 4"
   ],
   "name": "Ravi Test Plan Updated",
-  "events": [1, 2]
+  "events": [1, 2],
+  "prices": [
+    {
+      "active": true,
+      "unit_amount": 1900, // not editable
+      "interval": "month", // not editable
+      "createdAt": 1742466783
+      "id": "price_1R4gPLRfJLsnQGqxyIPRXOd9",
+    },
+    {
+      "unit_amount": 1000,
+      "interval": "year",
+    }
+  ],
 }
 
 - response
